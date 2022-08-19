@@ -473,41 +473,43 @@
       }
     }
   },
-  "color.1": {
-    "core": {
-      "1": {
-        "value": "#05668d",
-        "type": "color"
+  "color-scheme": {
+    "palette": {
+      "core": {
+        "1": {
+          "value": "#05668d",
+          "type": "color"
+        },
+        "2": {
+          "value": "#70d6ff",
+          "type": "color"
+        },
+        "3": {
+          "value": "#f0f3bd",
+          "type": "color"
+        }
       },
-      "2": {
-        "value": "#70d6ff",
-        "type": "color"
-      },
-      "3": {
-        "value": "#f0f3bd",
-        "type": "color"
-      }
-    },
-    "neutral": {
-      "0": {
-        "value": "#fff",
-        "type": "color"
-      },
-      "1": {
-        "value": "#010400",
-        "type": "color"
-      },
-      "2": {
-        "value": "#414340",
-        "type": "color"
-      },
-      "3": {
-        "value": "#808280",
-        "type": "color"
-      },
-      "4": {
-        "value": "#c0c1c0",
-        "type": "color"
+      "neutral": {
+        "0": {
+          "value": "#fff",
+          "type": "color"
+        },
+        "1": {
+          "value": "#010400",
+          "type": "color"
+        },
+        "2": {
+          "value": "#414340",
+          "type": "color"
+        },
+        "3": {
+          "value": "#808280",
+          "type": "color"
+        },
+        "4": {
+          "value": "#c0c1c0",
+          "type": "color"
+        }
       }
     },
     "ui": {
@@ -515,81 +517,81 @@
         "primary": {
           "rested": {
             "fill": {
-              "value": "{core.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.1}"
             },
             "border": {
-              "value": "{core.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.1}"
             },
             "text": {
-              "value": "{neutral.0}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.0}"
             }
           },
           "hover": {
             "fill": {
-              "value": "{core.2}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.2}"
             },
             "border": {
-              "value": "{core.2}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.2}"
             },
             "text": {
-              "value": "{neutral.0}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.0}"
             }
           }
         },
         "secondary": {
           "rested": {
             "fill": {
-              "value": "{neutral.0}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.0}"
             },
             "border": {
-              "value": "{core.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.1}"
             },
             "text": {
-              "value": "{core.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.1}"
             }
           },
           "hover": {
             "fill": {
-              "value": "{core.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.1}"
             },
             "border": {
-              "value": "{core.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.1}"
             },
             "text": {
-              "value": "{neutral.0}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.0}"
             }
           }
         },
         "link": {
           "rested": {
             "text": {
-              "value": "{neutral.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.1}"
             },
             "icon": {
-              "value": "{core.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.core.1}"
             },
             "hover": {
               "text": {
-                "value": "{core.1}",
-                "type": "color"
+                "type": "color",
+                "value": "{palette.core.1}"
               },
               "icon": {
-                "value": "{core.1}",
-                "type": "color"
+                "type": "color",
+                "value": "{palette.core.1}"
               }
             }
           }
@@ -598,18 +600,18 @@
       "tab-item": {
         "rested": {
           "text": {
-            "value": "{neutral.1}",
-            "type": "color"
+            "type": "color",
+            "value": "{palette.neutral.1}"
           }
         },
         "hover": {
           "text": {
-            "value": "{core.1}",
-            "type": "color"
+            "type": "color",
+            "value": "{palette.core.1}"
           },
           "border": {
-            "value": "{core.1}",
-            "type": "color"
+            "type": "color",
+            "value": "{palette.core.1}"
           }
         }
       },
@@ -617,36 +619,36 @@
         "light": {
           "rested": {
             "icon": {
-              "value": "{neutral.0}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.0}"
             }
           },
           "hover": {
             "icon": {
-              "value": "{neutral.0}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.0}"
             },
             "fill": {
-              "value": "{neutral.4}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.4}"
             }
           }
         },
         "primary": {
           "rested": {
             "icon": {
-              "value": "{neutral.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.1}"
             }
           },
           "hover": {
             "icon": {
-              "value": "{neutral.1}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.1}"
             },
             "fill": {
-              "value": "{neutral.4}",
-              "type": "color"
+              "type": "color",
+              "value": "{palette.neutral.4}"
             }
           }
         }
@@ -654,150 +656,26 @@
       "profile-navigation": {
         "rested": {
           "fill": {
-            "value": "{neutral.1}",
-            "type": "color"
+            "type": "color",
+            "value": "{palette.neutral.1}"
           },
           "text": {
-            "value": "{neutral.0}",
-            "type": "color"
+            "type": "color",
+            "value": "{palette.neutral.0}"
           }
         },
         "hover": {
           "fill": {
-            "value": "{neutral.1}",
-            "type": "color"
+            "type": "color",
+            "value": "{palette.neutral.1}"
           },
           "text": {
-            "value": "{neutral.0}",
-            "type": "color"
+            "type": "color",
+            "value": "{palette.neutral.0}"
           },
           "border": {
-            "value": "{core.1}",
-            "type": "color"
-          }
-        }
-      }
-    }
-  },
-  "color.2": {
-    "core": {
-      "1": {
-        "value": "#ff7477",
-        "type": "color"
-      },
-      "2": {
-        "value": "#ff474a",
-        "type": "color"
-      },
-      "3": {
-        "value": "#00b295",
-        "type": "color"
-      }
-    },
-    "neutral": {
-      "0": {
-        "value": "#fff",
-        "type": "color"
-      },
-      "1": {
-        "value": "#010400",
-        "type": "color"
-      },
-      "2": {
-        "value": "#414340",
-        "type": "color"
-      },
-      "3": {
-        "value": "#808280",
-        "type": "color"
-      },
-      "4": {
-        "value": "#c0c1c0",
-        "type": "color"
-      }
-    },
-    "ui": {
-      "button": {
-        "primary": {
-          "rested": {
-            "fill": {
-              "value": "{core.1}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{core.1}",
-              "type": "color"
-            },
-            "text": {
-              "value": "{neutral.0}",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "fill": {
-              "value": "{core.2}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{core.2}",
-              "type": "color"
-            },
-            "text": {
-              "value": "{neutral.0}",
-              "type": "color"
-            }
-          }
-        },
-        "secondary": {
-          "rested": {
-            "fill": {
-              "value": "{neutral.0}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{core.1}",
-              "type": "color"
-            },
-            "text": {
-              "value": "{core.1}",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "fill": {
-              "value": "{core.1}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{core.1}",
-              "type": "color"
-            },
-            "text": {
-              "value": "{neutral.0}",
-              "type": "color"
-            }
-          }
-        },
-        "link": {
-          "rested": {
-            "text": {
-              "value": "{core.1}",
-              "type": "color"
-            },
-            "icon": {
-              "value": "{core.3}",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "text": {
-              "value": "{core.3}",
-              "type": "color"
-            },
-            "icon": {
-              "value": "{core.3}",
-              "type": "color"
-            }
+            "type": "color",
+            "value": "{palette.core.1}"
           }
         }
       }
@@ -1015,8 +893,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "color.1",
-      "color.2",
+      "color-scheme",
       "WSU"
     ]
   }
