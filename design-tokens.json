@@ -121,6 +121,88 @@
             }
           }
         }
+      },
+      "tab-item": {
+        "rested": {
+          "text": {
+            "value": "{neutral.1}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "text": {
+            "value": "{core.1}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.1}",
+            "type": "color"
+          }
+        }
+      },
+      "button-icon": {
+        "light": {
+          "rested": {
+            "icon": {
+              "value": "{neutral.0}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "icon": {
+              "value": "{neutral.0}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{neutral.4}",
+              "type": "color"
+            }
+          }
+        },
+        "primary": {
+          "rested": {
+            "icon": {
+              "value": "{neutral.1}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "icon": {
+              "value": "{neutral.1}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{neutral.4}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "profile-navigation": {
+        "rested": {
+          "fill": {
+            "value": "{neutral.1}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{neutral.0}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "fill": {
+            "value": "{neutral.1}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{neutral.0}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.1}",
+            "type": "color"
+          }
+        }
       }
     }
   },
