@@ -222,6 +222,28 @@
               "type": "color"
             }
           }
+        },
+        "link": {
+          "rested": {
+            "text": {
+              "value": "{core.1}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{core.3}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "text": {
+              "value": "{core.3}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{core.3}",
+              "type": "color"
+            }
+          }
         }
       }
     }
