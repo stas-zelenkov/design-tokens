@@ -473,6 +473,34 @@
       }
     }
   },
+  "global-spacing": {
+    "ui": {
+      "space-x1": {
+        "value": "5px",
+        "type": "spacing"
+      },
+      "space-x2": {
+        "value": "{ui.space-x1}*2",
+        "type": "spacing"
+      },
+      "space-x3": {
+        "value": "{ui.space-x1}*3",
+        "type": "spacing"
+      },
+      "space-x4": {
+        "value": "{ui.space-x1}*4",
+        "type": "spacing"
+      },
+      "space-x5": {
+        "value": "{ui.space-x1}*5",
+        "type": "spacing"
+      },
+      "space-x6": {
+        "value": "{ui.space-x1}*6",
+        "type": "spacing"
+      }
+    }
+  },
   "color-scheme": {
     "palette": {
       "core": {
@@ -939,6 +967,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
+      "global-spacing",
       "color-scheme",
       "WSU"
     ]
