@@ -865,17 +865,21 @@
         "rested": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.1}"
+            "value": "{palette.core.1}"
           },
           "text": {
             "type": "color",
             "value": "{palette.neutral.0}"
+          },
+          "icon": {
+            "value": "{palette.neutral.1}",
+            "type": "color"
           }
         },
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.1}"
+            "value": "{palette.core.1}"
           },
           "text": {
             "type": "color",
@@ -883,7 +887,11 @@
           },
           "border": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.core.2}"
+          },
+          "icon": {
+            "value": "{palette.neutral.1}",
+            "type": "color"
           }
         }
       }
