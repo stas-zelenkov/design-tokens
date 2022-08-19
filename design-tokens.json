@@ -1,0 +1,112 @@
+{
+  "global": {},
+  "color.1": {
+    "core": {
+      "1": {
+        "value": "#05668d",
+        "type": "color"
+      },
+      "2": {
+        "value": "#70d6ff",
+        "type": "color"
+      },
+      "3": {
+        "value": "#f0f3bd",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "0": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "1": {
+        "value": "#010400",
+        "type": "color"
+      },
+      "2": {
+        "value": "#414340",
+        "type": "color"
+      },
+      "3": {
+        "value": "#808280",
+        "type": "color"
+      },
+      "4": {
+        "value": "#c0c1c0",
+        "type": "color"
+      }
+    },
+    "ui": {
+      "button": {
+        "primary": {
+          "rested": {
+            "fill": {
+              "value": "{core.1}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.1}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{neutral.0}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "fill": {
+              "value": "{core.2}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.2}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{neutral.0}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "rested": {
+            "fill": {
+              "value": "{neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.1}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{core.1}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "fill": {
+              "value": "{core.1}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.1}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{neutral.0}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "color.1"
+    ]
+  }
+}
