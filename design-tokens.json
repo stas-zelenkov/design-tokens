@@ -1545,11 +1545,11 @@
     "palette": {
       "core": {
         "1": {
-          "value": "#C8102E",
+          "value": "#007298",
           "type": "color"
         },
         "2": {
-          "value": "#CA1237",
+          "value": "#50748a",
           "type": "color"
         },
         "3": {
@@ -1597,23 +1597,23 @@
       },
       "accent": {
         "1": {
-          "value": "#FF6727",
+          "value": "#642b81",
           "type": "color"
         },
         "2": {
-          "value": "#F3E700",
+          "value": "#132a4f",
           "type": "color"
         },
         "3": {
-          "value": "#AADC24",
+          "value": "#cd1972",
           "type": "color"
         },
         "4": {
-          "value": "#5BC3F5",
+          "value": "#4b74b9",
           "type": "color"
         },
         "5": {
-          "value": "#002D61",
+          "value": "#d7e04c",
           "type": "color"
         }
       }
