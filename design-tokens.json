@@ -1571,27 +1571,27 @@
           "type": "color"
         },
         "2": {
-          "value": "#1F1F1F",
+          "value": "#181A1C",
           "type": "color"
         },
         "3": {
-          "value": "#4d4d4d",
+          "value": "#2F3438",
           "type": "color"
         },
         "4": {
-          "value": "#808080",
+          "value": "#5D676F",
           "type": "color"
         },
         "5": {
-          "value": "#A6A6A6",
+          "value": "#868D93",
           "type": "color"
         },
         "6": {
-          "value": "#cccccc",
+          "value": "#AEB3B7",
           "type": "color"
         },
         "7": {
-          "value": "#EBEBEB",
+          "value": "#D7D9DB",
           "type": "color"
         }
       },
