@@ -135,7 +135,7 @@
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.1}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
