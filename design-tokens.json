@@ -1279,7 +1279,7 @@
       },
       "neutral": {
         "0": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "1": {
@@ -1482,7 +1482,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.0}32"
             }
           }
         },
@@ -1500,7 +1500,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.1}10"
             }
           }
         }
