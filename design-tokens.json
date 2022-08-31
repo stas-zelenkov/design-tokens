@@ -1509,11 +1509,11 @@
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.1}"
+            "value": "{palette.neutral.0}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           },
           "icon": {
             "value": "{palette.neutral.0}",
@@ -1523,11 +1523,11 @@
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.1}"
+            "value": "{palette.neutral.0}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           },
           "border": {
             "type": "color",
