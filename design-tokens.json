@@ -1538,6 +1538,36 @@
             "type": "color"
           }
         }
+      },
+      "card-label": {
+        "certificate": {
+          "value": "{palette.core.1}",
+          "type": "color"
+        },
+        "course": {
+          "value": "{palette.accent.1}",
+          "type": "color"
+        },
+        "bootcamp": {
+          "value": "{palette.accent.2}",
+          "type": "color"
+        },
+        "associate": {
+          "value": "{palette.accent.3}",
+          "type": "color"
+        },
+        "bachelor": {
+          "value": "{palette.accent.4}",
+          "type": "color"
+        },
+        "master": {
+          "value": "{palette.accent.5}",
+          "type": "color"
+        },
+        "doctorate": {
+          "value": "{palette.neutral.5}",
+          "type": "color"
+        }
       }
     }
   },
