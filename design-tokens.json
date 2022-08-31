@@ -1638,11 +1638,11 @@
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.core.3}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.core.3}"
             },
             "text": {
               "type": "color",
