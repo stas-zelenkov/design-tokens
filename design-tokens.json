@@ -470,6 +470,10 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
       }
     }
   },
