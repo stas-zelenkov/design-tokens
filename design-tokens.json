@@ -1885,6 +1885,7 @@
       }
     }
   },
+  "USC": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -1892,7 +1893,8 @@
       "global-spacing",
       "WSU",
       "Fairfield",
-      "HPU"
+      "HPU",
+      "USC"
     ]
   }
 }
