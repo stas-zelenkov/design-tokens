@@ -2081,17 +2081,17 @@
         "default": {
           "text": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.neutral.1}"
           }
         },
         "hover": {
           "text": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           },
           "border": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           }
         }
       },
