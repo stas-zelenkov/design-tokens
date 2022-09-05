@@ -2225,6 +2225,342 @@
       }
     }
   },
+  "UMBC": {
+    "palette": {
+      "core": {
+        "1": {
+          "value": "#C8102E",
+          "type": "color"
+        },
+        "2": {
+          "value": "#3A78AA",
+          "type": "color"
+        },
+        "3": {
+          "value": "#bcbec0",
+          "type": "color"
+        },
+        "transparent": {
+          "value": "rgba(255,255,255,0)",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "0": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "2": {
+          "value": "#1F1F1F",
+          "type": "color"
+        },
+        "3": {
+          "value": "#4d4d4d",
+          "type": "color"
+        },
+        "4": {
+          "value": "#808080",
+          "type": "color"
+        },
+        "5": {
+          "value": "#A6A6A6",
+          "type": "color"
+        },
+        "6": {
+          "value": "#cccccc",
+          "type": "color"
+        },
+        "7": {
+          "value": "#EBEBEB",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "1": {
+          "value": "#FF6727",
+          "type": "color"
+        },
+        "2": {
+          "value": "#F3E700",
+          "type": "color"
+        },
+        "3": {
+          "value": "#AADC24",
+          "type": "color"
+        },
+        "4": {
+          "value": "#5BC3F5",
+          "type": "color"
+        },
+        "5": {
+          "value": "#002D61",
+          "type": "color"
+        }
+      }
+    },
+    "ui": {
+      "button": {
+        "primary": {
+          "default": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          },
+          "hover": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            }
+          },
+          "hover": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          }
+        },
+        "link": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "icon": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            },
+            "icon": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
+          }
+        },
+        "secondary-light": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.transparent}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "fill": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "tab-item": {
+        "default": {
+          "text": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          }
+        },
+        "hover": {
+          "text": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          },
+          "border": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          }
+        }
+      },
+      "button-icon": {
+        "light": {
+          "default": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          },
+          "hover": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            },
+            "fill": {
+              "type": "color",
+              "value": "{palette.neutral.0}32"
+            }
+          }
+        },
+        "primary": {
+          "default": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "fill": {
+              "type": "color",
+              "value": "{palette.neutral.1}10"
+            }
+          }
+        }
+      },
+      "profile-navigation": {
+        "default": {
+          "fill": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          },
+          "text": {
+            "type": "color",
+            "value": "{palette.core.1}"
+          },
+          "icon": {
+            "value": "{palette.neutral.0}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "fill": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          },
+          "text": {
+            "type": "color",
+            "value": "{palette.core.1}"
+          },
+          "border": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          },
+          "icon": {
+            "value": "{palette.neutral.0}",
+            "type": "color"
+          }
+        }
+      },
+      "card-label": {
+        "certificate": {
+          "value": "{palette.accent.4}",
+          "type": "color"
+        },
+        "course": {
+          "value": "{palette.accent.3}",
+          "type": "color"
+        },
+        "bootcamp": {
+          "value": "{palette.accent.2}",
+          "type": "color"
+        },
+        "associate": {
+          "value": "{palette.accent.1}",
+          "type": "color"
+        },
+        "bachelor": {
+          "value": "{palette.core.1}",
+          "type": "color"
+        },
+        "master": {
+          "value": "{palette.accent.5}",
+          "type": "color"
+        },
+        "doctorate": {
+          "value": "{palette.neutral.5}",
+          "type": "color"
+        }
+      },
+      "textlink": {
+        "default": {
+          "text": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "text": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -2233,7 +2569,8 @@
       "WSU",
       "Fairfield",
       "HPU",
-      "USC"
+      "USC",
+      "UMBC"
     ]
   }
 }
