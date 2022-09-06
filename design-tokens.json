@@ -2308,29 +2308,29 @@
           "default": {
             "fill": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.core.1}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.core.1}"
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.0}"
+              "value": "{palette.neutral.1}"
             }
           },
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.accent.2}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.accent.2}"
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.0}"
+              "value": "{palette.neutral.1}"
             }
           }
         },
@@ -2342,25 +2342,25 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.neutral.1}"
             },
             "text": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.neutral.1}"
             }
           },
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.accent.2}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.accent.2}"
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.0}"
+              "value": "{palette.neutral.1}"
             }
           }
         },
@@ -2378,7 +2378,7 @@
           "hover": {
             "text": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.neutral.1}"
             },
             "icon": {
               "type": "color",
@@ -2403,15 +2403,15 @@
           },
           "hover": {
             "fill": {
-              "value": "{palette.core.1}",
+              "value": "{palette.accent.2}",
               "type": "color"
             },
             "border": {
-              "value": "{palette.core.1}",
+              "value": "{palette.accent.2}",
               "type": "color"
             },
             "text": {
-              "value": "{palette.neutral.0}",
+              "value": "{palette.neutral.1}",
               "type": "color"
             }
           }
@@ -2421,17 +2421,17 @@
         "default": {
           "text": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.neutral.1}"
           }
         },
         "hover": {
           "text": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.neutral.1}"
           },
           "border": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           }
         }
       },
@@ -2477,43 +2477,43 @@
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.accent.2}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.neutral.1}"
           },
           "icon": {
-            "value": "{palette.neutral.0}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         },
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.accent.2}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.neutral.1}"
           },
           "border": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           },
           "icon": {
-            "value": "{palette.neutral.0}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         }
       },
       "card-label": {
         "certificate": {
-          "value": "{palette.accent.4}",
+          "value": "{palette.core.2}",
           "type": "color"
         },
         "course": {
-          "value": "{palette.accent.3}",
+          "value": "{palette.core.1}",
           "type": "color"
         },
         "bootcamp": {
@@ -2525,7 +2525,7 @@
           "type": "color"
         },
         "bachelor": {
-          "value": "{palette.core.1}",
+          "value": "{palette.accent.4}",
           "type": "color"
         },
         "master": {
