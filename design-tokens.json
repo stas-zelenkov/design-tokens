@@ -2322,11 +2322,11 @@
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.accent.2}"
+              "value": "{palette.neutral.7}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.accent.2}"
+              "value": "{palette.neutral.7}"
             },
             "text": {
               "type": "color",
@@ -2352,11 +2352,11 @@
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.accent.2}"
+              "value": "{palette.neutral.7}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.accent.2}"
+              "value": "{palette.neutral.7}"
             },
             "text": {
               "type": "color",
@@ -2403,11 +2403,11 @@
           },
           "hover": {
             "fill": {
-              "value": "{palette.accent.2}",
+              "value": "{palette.neutral.7}",
               "type": "color"
             },
             "border": {
-              "value": "{palette.accent.2}",
+              "value": "{palette.neutral.7}",
               "type": "color"
             },
             "text": {
