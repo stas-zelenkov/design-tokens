@@ -2558,6 +2558,28 @@
             "type": "color"
           }
         }
+      },
+      "carousel-pagination": {
+        "default": {
+          "active": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.2}30",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "active": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.2}60",
+            "type": "color"
+          }
+        }
       }
     }
   },
