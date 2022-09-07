@@ -307,6 +307,96 @@
     "primary": {
       "value": "Open Sans",
       "type": "fontFamilies"
+    },
+    "palette": {
+      "accent": {
+        "1": {
+          "value": "#008638",
+          "type": "color"
+        },
+        "2": {
+          "value": "#DB0020",
+          "type": "color"
+        },
+        "3": {
+          "value": "#FF8A00",
+          "type": "color"
+        },
+        "4": {
+          "value": "#007FA3",
+          "type": "color"
+        },
+        "5": {
+          "value": "#A4C20F",
+          "type": "color"
+        },
+        "6": {
+          "value": "#FFB81C",
+          "type": "color"
+        },
+        "7": {
+          "value": "#76D5D4",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "0": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "2": {
+          "value": "#333333",
+          "type": "color"
+        },
+        "3": {
+          "value": "#444444",
+          "type": "color"
+        },
+        "4": {
+          "value": "#505759",
+          "type": "color"
+        },
+        "5": {
+          "value": "#666666",
+          "type": "color"
+        },
+        "6": {
+          "value": "#767676",
+          "type": "color"
+        },
+        "7": {
+          "value": "#999999",
+          "type": "color"
+        },
+        "8": {
+          "value": "#CCCCCC",
+          "type": "color"
+        },
+        "9": {
+          "value": "#DBDBDB",
+          "type": "color"
+        },
+        "10": {
+          "value": "#E6E6E6",
+          "type": "color"
+        },
+        "11": {
+          "value": "#F2F2F2",
+          "type": "color"
+        },
+        "12": {
+          "value": "#F5F5F5",
+          "type": "color"
+        },
+        "13": {
+          "value": "#FAFAFA",
+          "type": "color"
+        }
+      }
     }
   },
   "WSU": {
