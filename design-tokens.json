@@ -1258,6 +1258,80 @@
             "type": "color"
           }
         }
+      },
+      "card-label": {
+        "certificate": {
+          "value": "#007176",
+          "type": "color"
+        },
+        "course": {
+          "value": "#fdb515",
+          "type": "color"
+        },
+        "bootcamp": {
+          "value": "#c7c8ca",
+          "type": "color"
+        },
+        "associate": {
+          "value": "#da2128",
+          "type": "color"
+        },
+        "bachelor": {
+          "value": "#a67a05",
+          "type": "color"
+        },
+        "master": {
+          "value": "#002d61",
+          "type": "color"
+        },
+        "doctorate": {
+          "value": "#a6a6a6",
+          "type": "color"
+        }
+      },
+      "textlink": {
+        "default": {
+          "text": {
+            "value": "#007176",
+            "type": "color"
+          },
+          "icon": {
+            "value": "#007176",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "text": {
+            "value": "#007176",
+            "type": "color"
+          },
+          "icon": {
+            "value": "#007176",
+            "type": "color"
+          }
+        }
+      },
+      "carousel-pagination": {
+        "default": {
+          "active": {
+            "value": "#007176",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "#00717630",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "active": {
+            "value": "#007176",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "#00717661",
+            "type": "color"
+          }
+        }
       }
     }
   },
