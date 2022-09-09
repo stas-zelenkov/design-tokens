@@ -682,6 +682,20 @@
             "type": "color"
           }
         }
+      },
+      "sidebar": {
+        "fill": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.core.1}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
+        }
       }
     }
   },
