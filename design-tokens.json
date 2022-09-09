@@ -349,50 +349,34 @@
           "type": "color"
         },
         "2": {
-          "value": "#333333",
+          "value": "#151515",
           "type": "color"
         },
         "3": {
-          "value": "#444444",
+          "value": "#333333",
           "type": "color"
         },
         "4": {
-          "value": "#505759",
-          "type": "color"
-        },
-        "5": {
           "value": "#666666",
           "type": "color"
         },
-        "6": {
-          "value": "#767676",
-          "type": "color"
-        },
-        "7": {
+        "5": {
           "value": "#999999",
           "type": "color"
         },
-        "8": {
+        "6": {
           "value": "#CCCCCC",
           "type": "color"
         },
+        "7": {
+          "value": "#e6e6e6",
+          "type": "color"
+        },
+        "8": {
+          "value": "#f2f2f2",
+          "type": "color"
+        },
         "9": {
-          "value": "#DBDBDB",
-          "type": "color"
-        },
-        "10": {
-          "value": "#E6E6E6",
-          "type": "color"
-        },
-        "11": {
-          "value": "#F2F2F2",
-          "type": "color"
-        },
-        "12": {
-          "value": "#F5F5F5",
-          "type": "color"
-        },
-        "13": {
           "value": "#FAFAFA",
           "type": "color"
         }
@@ -1743,7 +1727,7 @@
       },
       "neutral": {
         "0": {
-          "value": "#ffffff",
+          "value": "#FFFFFF",
           "type": "color"
         },
         "1": {
@@ -1751,27 +1735,35 @@
           "type": "color"
         },
         "2": {
-          "value": "#1F1F1F",
+          "value": "#151515",
           "type": "color"
         },
         "3": {
-          "value": "#4d4d4d",
+          "value": "#333333",
           "type": "color"
         },
         "4": {
-          "value": "#808080",
+          "value": "#666666",
           "type": "color"
         },
         "5": {
-          "value": "#A6A6A6",
+          "value": "#999999",
           "type": "color"
         },
         "6": {
-          "value": "#cccccc",
+          "value": "#CCCCCC",
           "type": "color"
         },
         "7": {
-          "value": "#EBEBEB",
+          "value": "#e6e6e6",
+          "type": "color"
+        },
+        "8": {
+          "value": "#f2f2f2",
+          "type": "color"
+        },
+        "9": {
+          "value": "#FAFAFA",
           "type": "color"
         }
       },
