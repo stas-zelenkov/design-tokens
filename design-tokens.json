@@ -428,7 +428,7 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.core.2}"
             },
             "text": {
               "type": "color",
@@ -458,7 +458,7 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.core.2}"
             },
             "text": {
               "type": "color",
@@ -509,7 +509,7 @@
               "type": "color"
             },
             "border": {
-              "value": "{palette.neutral.1}",
+              "value": "{palette.neutral.0}",
               "type": "color"
             },
             "text": {
