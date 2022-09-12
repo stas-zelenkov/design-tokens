@@ -2387,6 +2387,326 @@
       }
     }
   },
+  "UNR": {
+    "palette": {
+      "core": {
+        "1": {
+          "value": "#041E42",
+          "type": "color"
+        },
+        "2": {
+          "value": "#3C6DA7",
+          "type": "color"
+        },
+        "3": {
+          "value": "#D42D46",
+          "type": "color"
+        },
+        "4": {
+          "value": "#74767B",
+          "type": "color"
+        },
+        "transparent": {
+          "value": "rgba(255,255,255,0)",
+          "type": "color"
+        }
+      }
+    },
+    "ui": {
+      "button": {
+        "primary": {
+          "default": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          },
+          "hover": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "fill": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            },
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          }
+        },
+        "link": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "icon": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "icon": {
+              "type": "color",
+              "value": "{palette.core.2}"
+            }
+          }
+        },
+        "secondary-light": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.transparent}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "fill": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{palette.core.2}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "tab-item": {
+        "default": {
+          "text": {
+            "type": "color",
+            "value": "{palette.neutral.1}"
+          }
+        },
+        "hover": {
+          "text": {
+            "type": "color",
+            "value": "{palette.neutral.1}"
+          },
+          "border": {
+            "type": "color",
+            "value": "{palette.core.2}"
+          }
+        }
+      },
+      "button-icon": {
+        "light": {
+          "default": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            }
+          },
+          "hover": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.0}"
+            },
+            "fill": {
+              "type": "color",
+              "value": "{palette.neutral.0}32"
+            }
+          }
+        },
+        "primary": {
+          "default": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "icon": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "fill": {
+              "type": "color",
+              "value": "{palette.neutral.1}10"
+            }
+          }
+        }
+      },
+      "profile-navigation": {
+        "default": {
+          "fill": {
+            "type": "color",
+            "value": "{palette.core.2}"
+          },
+          "text": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          },
+          "icon": {
+            "value": "{palette.neutral.0}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "fill": {
+            "type": "color",
+            "value": "{palette.core.2}"
+          },
+          "text": {
+            "type": "color",
+            "value": "{palette.neutral.0}"
+          },
+          "border": {
+            "type": "color",
+            "value": "{palette.core.2}"
+          },
+          "icon": {
+            "value": "{palette.neutral.0}",
+            "type": "color"
+          }
+        }
+      },
+      "card-label": {
+        "certificate": {
+          "value": "{palette.accent.1}",
+          "type": "color"
+        },
+        "course": {
+          "value": "{palette.accent.2}",
+          "type": "color"
+        },
+        "bootcamp": {
+          "value": "{palette.accent.3}",
+          "type": "color"
+        },
+        "associate": {
+          "value": "{palette.accent.4}",
+          "type": "color"
+        },
+        "bachelor": {
+          "value": "{palette.accent.5}",
+          "type": "color"
+        },
+        "master": {
+          "value": "{palette.accent.6}",
+          "type": "color"
+        },
+        "doctorate": {
+          "value": "{palette.accent.7}",
+          "type": "color"
+        }
+      },
+      "textlink": {
+        "default": {
+          "text": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "text": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        }
+      },
+      "carousel-pagination": {
+        "default": {
+          "active": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.2}30",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "active": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.2}60",
+            "type": "color"
+          }
+        }
+      },
+      "sidebar": {
+        "fill": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.core.1}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -2396,7 +2716,8 @@
       "Fairfield",
       "HPU",
       "USC",
-      "UMBC"
+      "UMBC",
+      "UNR"
     ]
   }
 }
