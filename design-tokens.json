@@ -2910,7 +2910,7 @@
             "value": "{palette.neutral.0}"
           },
           "icon": {
-            "value": "{palette.core.2}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         },
@@ -2928,7 +2928,7 @@
             "value": "{palette.core.3}"
           },
           "icon": {
-            "value": "{palette.core.2}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         }
