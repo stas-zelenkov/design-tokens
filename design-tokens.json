@@ -1726,62 +1726,6 @@
           "value": "rgba(255,255,255,0)",
           "type": "color"
         }
-      },
-      "neutral": {
-        "0": {
-          "value": "#fff",
-          "type": "color"
-        },
-        "1": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "2": {
-          "value": "#1F1F1F",
-          "type": "color"
-        },
-        "3": {
-          "value": "#4d4d4d",
-          "type": "color"
-        },
-        "4": {
-          "value": "#808080",
-          "type": "color"
-        },
-        "5": {
-          "value": "#A6A6A6",
-          "type": "color"
-        },
-        "6": {
-          "value": "#cccccc",
-          "type": "color"
-        },
-        "7": {
-          "value": "#EBEBEB",
-          "type": "color"
-        }
-      },
-      "accent": {
-        "1": {
-          "value": "#FF854F",
-          "type": "color"
-        },
-        "2": {
-          "value": "#BADB00",
-          "type": "color"
-        },
-        "3": {
-          "value": "#52CFE5",
-          "type": "color"
-        },
-        "4": {
-          "value": "#00CFB5",
-          "type": "color"
-        },
-        "5": {
-          "value": "#385775",
-          "type": "color"
-        }
       }
     },
     "ui": {
