@@ -2018,6 +2018,64 @@
           "value": "{palette.core.2}",
           "type": "color"
         }
+      },
+      "textlink": {
+        "default": {
+          "text": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "text": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          }
+        }
+      },
+      "carousel-pagination": {
+        "default": {
+          "active": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.1}30",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "active": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.1}60",
+            "type": "color"
+          }
+        }
+      },
+      "sidebar": {
+        "fill": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
+        }
       }
     }
   },
