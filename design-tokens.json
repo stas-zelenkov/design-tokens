@@ -49,7 +49,7 @@
       "large-bold": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "SemiBold",
+          "fontWeight": "Bold",
           "lineHeight": "24",
           "fontSize": "16"
         },
