@@ -690,21 +690,21 @@
       "carousel-pagination": {
         "default": {
           "active": {
-            "value": "{palette.core.2}",
+            "value": "{palette.core.3}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.2}30",
+            "value": "{palette.core.3}30",
             "type": "color"
           }
         },
         "hover": {
           "active": {
-            "value": "{palette.core.2}",
+            "value": "{palette.core.3}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.2}60",
+            "value": "{palette.core.3}60",
             "type": "color"
           }
         }
@@ -3052,12 +3052,6 @@
         },
         "text": {
           "value": "{palette.neutral.0}",
-          "type": "color"
-        }
-      },
-      "decoration": {
-        "fill": {
-          "value": "{palette.core.3}",
           "type": "color"
         }
       }
