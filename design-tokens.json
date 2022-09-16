@@ -581,6 +581,24 @@
               "value": "{palette.neutral.1}10"
             }
           }
+        },
+        "neutral": {
+          "default": {
+            "icon": {
+              "value": "{palette.neutral.4}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "icon": {
+              "value": "{palette.neutral.3}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{palette.neutral.3}10",
+              "type": "color"
+            }
+          }
         }
       },
       "profile-navigation": {
