@@ -349,10 +349,6 @@
           "type": "color"
         },
         "2": {
-          "value": "#151515",
-          "type": "color"
-        },
-        "3": {
           "value": "#333333",
           "type": "color"
         },
@@ -369,14 +365,18 @@
           "type": "color"
         },
         "7": {
-          "value": "#e6e6e6",
+          "value": "#dbdbdb",
           "type": "color"
         },
         "8": {
-          "value": "#f2f2f2",
+          "value": "#e6e6e6",
           "type": "color"
         },
         "9": {
+          "value": "#f2f2f2",
+          "type": "color"
+        },
+        "10": {
           "value": "#FAFAFA",
           "type": "color"
         }
@@ -930,7 +930,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             }
           }
         },
@@ -948,7 +948,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             }
           }
         }
@@ -1624,7 +1624,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             }
           }
         },
@@ -1642,7 +1642,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             }
           }
         }
@@ -1882,7 +1882,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             }
           }
         },
@@ -1900,7 +1900,7 @@
             },
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             }
           }
         }
@@ -2134,11 +2134,11 @@
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             },
             "text": {
               "type": "color",
@@ -2164,11 +2164,11 @@
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.neutral.7}"
+              "value": "{palette.neutral.8}"
             },
             "text": {
               "type": "color",
@@ -2215,11 +2215,11 @@
           },
           "hover": {
             "fill": {
-              "value": "{palette.neutral.7}",
+              "value": "{palette.neutral.8}",
               "type": "color"
             },
             "border": {
-              "value": "{palette.neutral.7}",
+              "value": "{palette.neutral.8}",
               "type": "color"
             },
             "text": {
