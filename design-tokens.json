@@ -3106,7 +3106,7 @@
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.neutral.0}"
             }
           }
         },
