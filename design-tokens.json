@@ -352,6 +352,10 @@
           "value": "#333333",
           "type": "color"
         },
+        "3": {
+          "value": "#444444",
+          "type": "color"
+        },
         "4": {
           "value": "#666666",
           "type": "color"
