@@ -3278,7 +3278,7 @@
             "value": "{palette.neutral.1}"
           },
           "icon": {
-            "value": "{palette.neutral.1}",
+            "value": "{palette.neutral.0}",
             "type": "color"
           }
         },
@@ -3296,7 +3296,7 @@
             "value": "{palette.core.1}"
           },
           "icon": {
-            "value": "{palette.neutral.1}",
+            "value": "{palette.neutral.0}",
             "type": "color"
           }
         }
