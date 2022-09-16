@@ -696,6 +696,12 @@
           "value": "{palette.neutral.0}",
           "type": "color"
         }
+      },
+      "decoration": {
+        "fill": {
+          "value": "{palette.core.3}",
+          "type": "color"
+        }
       }
     }
   },
