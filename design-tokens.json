@@ -711,7 +711,7 @@
       }
     },
     "primary": {
-      "value": "Oswald",
+      "value": "Open Sans",
       "type": "fontFamilies"
     },
     "ui": {
