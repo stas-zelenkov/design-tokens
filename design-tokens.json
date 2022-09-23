@@ -49,8 +49,8 @@
       "large-semibold-underline": {
         "value": {
           "fontFamily": "{primary}",
-          "textDecoration": "underline",
-          "fontWeight": "semiBold",
+          "textDecoration": "Underline",
+          "fontWeight": "SemiBold",
           "fontSize": "16",
           "lineHeight": "24"
         },
