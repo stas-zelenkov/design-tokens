@@ -46,6 +46,16 @@
         },
         "type": "typography"
       },
+      "large-semibold-underline": {
+        "value": {
+          "fontFamily": "{primary}",
+          "textDecoration": "underline",
+          "fontWeight": "semiBold",
+          "fontSize": "16",
+          "lineHeight": "24"
+        },
+        "type": "typography"
+      },
       "large-bold": {
         "value": {
           "fontFamily": "{primary}",
@@ -305,7 +315,7 @@
       }
     },
     "primary": {
-      "value": "Open Sans",
+      "value": "Oswald",
       "type": "fontFamilies"
     },
     "palette": {
