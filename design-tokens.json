@@ -4270,21 +4270,21 @@
       "textlink": {
         "default": {
           "text": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "icon": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           }
         },
         "hover": {
           "text": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "icon": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           }
         }
