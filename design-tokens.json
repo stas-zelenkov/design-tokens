@@ -1018,7 +1018,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{palette.core.1}",
+          "value": "{palette.neutral.4}",
           "type": "color"
         },
         "text": {
