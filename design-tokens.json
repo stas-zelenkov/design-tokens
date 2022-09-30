@@ -908,11 +908,11 @@
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.neutral.2}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.neutral.1}"
+            "value": "{palette.neutral.0}"
           },
           "icon": {
             "value": "{palette.neutral.1}",
@@ -922,15 +922,15 @@
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.neutral.2}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.neutral.1}"
+            "value": "{palette.neutral.0}"
           },
           "border": {
             "type": "color",
-            "value": "{palette.core.2}"
+            "value": "{palette.core.1}"
           },
           "icon": {
             "value": "{palette.neutral.1}",
