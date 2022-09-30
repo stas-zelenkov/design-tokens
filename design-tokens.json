@@ -405,15 +405,15 @@
     "palette": {
       "core": {
         "1": {
-          "value": "#f46e67",
+          "value": "#D41B2C",
           "type": "color"
         },
         "2": {
-          "value": "#F7928D",
+          "value": "#b51727",
           "type": "color"
         },
         "3": {
-          "value": "#4E598C",
+          "value": "#376996",
           "type": "color"
         },
         "transparent": {
@@ -729,7 +729,7 @@
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.neutral.0}"
             }
           },
           "hover": {
@@ -743,7 +743,7 @@
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.neutral.0}"
             }
           }
         },
@@ -773,7 +773,7 @@
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.neutral.0}"
             }
           }
         },
