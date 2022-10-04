@@ -5290,7 +5290,7 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.neutral.0}"
+              "value": "{palette.core.1}"
             },
             "text": {
               "type": "color",
@@ -5304,7 +5304,7 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.neutral.0}"
+              "value": "{palette.core.2}"
             },
             "text": {
               "type": "color",
