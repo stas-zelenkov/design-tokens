@@ -939,32 +939,36 @@
         }
       },
       "card-label": {
-        "certificate": {
-          "value": "{palette.accent.1}",
+        "doctorate": {
+          "value": "#106790",
           "type": "color"
         },
-        "course": {
-          "value": "{palette.accent.2}",
+        "master": {
+          "value": "{palette.accent.4}",
+          "type": "color"
+        },
+        "bachelor": {
+          "value": "#35A9CA",
+          "type": "color"
+        },
+        "associate": {
+          "value": "{palette.accent.7}",
+          "type": "color"
+        },
+        "certificate": {
+          "value": "#70B251",
+          "type": "color"
+        },
+        "microcertificate": {
+          "value": "{palette.accent.6}",
           "type": "color"
         },
         "bootcamp": {
           "value": "{palette.accent.3}",
           "type": "color"
         },
-        "associate": {
-          "value": "{palette.accent.4}",
-          "type": "color"
-        },
-        "bachelor": {
-          "value": "{palette.accent.5}",
-          "type": "color"
-        },
-        "master": {
-          "value": "{palette.accent.6}",
-          "type": "color"
-        },
-        "doctorate": {
-          "value": "{palette.accent.7}",
+        "course": {
+          "value": "{palette.accent.2}",
           "type": "color"
         }
       },
