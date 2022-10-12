@@ -6174,7 +6174,7 @@
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.core.3}"
+            "value": "{palette.core.2}"
           },
           "text": {
             "type": "color",
@@ -6188,7 +6188,7 @@
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.core.3}"
+            "value": "{palette.core.2}"
           },
           "text": {
             "type": "color",
