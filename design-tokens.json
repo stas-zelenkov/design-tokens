@@ -828,23 +828,51 @@
               "type": "color"
             }
           }
+        },
+        "toggle": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.3}",
+              "type": "color"
+            }
+          }
         }
       },
       "tab-item": {
-        "default": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "dark": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "light": {
+          "default": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
           },
-          "border": {
-            "type": "color",
-            "value": "{palette.core.1}"
+          "hover": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            }
           }
         }
       },
@@ -1031,9 +1059,17 @@
         }
       },
       "decoration": {
-        "fill": {
-          "value": "{palette.core.3}",
-          "type": "color"
+        "default": {
+          "fill": {
+            "value": "{palette.core.3}",
+            "type": "color"
+          }
+        },
+        "progressBar": {
+          "fill": {
+            "value": "{palette.core.3}",
+            "type": "color"
+          }
         }
       }
     }
@@ -6030,6 +6066,14 @@
               "type": "color"
             }
           }
+        },
+        "toggle": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.3}",
+              "type": "color"
+            }
+          }
         }
       },
       "tab-item": {
@@ -6253,9 +6297,17 @@
         }
       },
       "decoration": {
-        "fill": {
-          "value": "{palette.core.1}",
-          "type": "color"
+        "default": {
+          "fill": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          }
+        },
+        "progressBar": {
+          "fill": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          }
         }
       }
     }
