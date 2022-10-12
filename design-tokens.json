@@ -6033,20 +6033,40 @@
         }
       },
       "tab-item": {
-        "default": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "dark": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "line": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "light": {
+          "default": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
           },
-          "border": {
-            "type": "color",
-            "value": "{palette.core.1}"
+          "hover": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{palette.core.2}",
+              "type": "color"
+            }
           }
         }
       },
@@ -6132,7 +6152,7 @@
           },
           "border": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.core.2}"
           },
           "icon": {
             "value": "{palette.neutral.0}",
@@ -6234,7 +6254,7 @@
       },
       "decoration": {
         "fill": {
-          "value": "{palette.core.3}",
+          "value": "{palette.core.1}",
           "type": "color"
         }
       }
