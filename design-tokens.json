@@ -6108,7 +6108,7 @@
               "type": "color"
             },
             "line": {
-              "value": "{palette.core.2}",
+              "value": "{palette.neutral.0}",
               "type": "color"
             }
           }
@@ -6196,7 +6196,7 @@
           },
           "border": {
             "type": "color",
-            "value": "{palette.core.2}"
+            "value": "{palette.neutral.0}"
           },
           "icon": {
             "value": "{palette.neutral.0}",
