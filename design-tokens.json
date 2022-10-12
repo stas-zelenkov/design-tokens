@@ -1071,6 +1071,16 @@
             "type": "color"
           }
         }
+      },
+      "solid-color-banner": {
+        "fill": {
+          "value": "{palette.core.3}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
+        }
       }
     }
   },
@@ -6308,6 +6318,16 @@
             "value": "{palette.core.1}",
             "type": "color"
           }
+        }
+      },
+      "solid-color-banner": {
+        "fill": {
+          "value": "{palette.core.3}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
         }
       }
     }
