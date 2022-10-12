@@ -6062,7 +6062,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{palette.neutral.1}",
+              "value": "{palette.core.1}",
               "type": "color"
             }
           }
