@@ -5444,23 +5444,51 @@
               "type": "color"
             }
           }
+        },
+        "toggle": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.3}",
+              "type": "color"
+            }
+          }
         }
       },
       "tab-item": {
-        "default": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "dark": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "light": {
+          "default": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
           },
-          "border": {
-            "type": "color",
-            "value": "{palette.core.1}"
+          "hover": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            }
           }
         }
       },
@@ -5643,9 +5671,29 @@
         }
       },
       "decoration": {
+        "default": {
+          "fill": {
+            "value": "{palette.core.3}",
+            "type": "color",
+            "description": "Lines and steps icons, tick icons on LP landing"
+          }
+        },
+        "progress-bar": {
+          "fill": {
+            "value": "{palette.core.3}",
+            "type": "color"
+          }
+        }
+      },
+      "solid-color-banner": {
         "fill": {
-          "value": "{palette.core.3}",
+          "value": "{palette.neutral.3}",
           "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
@@ -6311,7 +6359,8 @@
         "default": {
           "fill": {
             "value": "{palette.core.1}",
-            "type": "color"
+            "type": "color",
+            "description": "Lines and steps icons, tick icons on LP landing"
           }
         },
         "progress-bar": {
