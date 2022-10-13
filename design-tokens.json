@@ -2429,48 +2429,6 @@
           "type": "color"
         }
       },
-      "neutral": {
-        "0": {
-          "value": "#FFFFFF",
-          "type": "color"
-        },
-        "1": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "2": {
-          "value": "#151515",
-          "type": "color"
-        },
-        "3": {
-          "value": "#333333",
-          "type": "color"
-        },
-        "4": {
-          "value": "#666666",
-          "type": "color"
-        },
-        "5": {
-          "value": "#999999",
-          "type": "color"
-        },
-        "6": {
-          "value": "#CCCCCC",
-          "type": "color"
-        },
-        "7": {
-          "value": "#e6e6e6",
-          "type": "color"
-        },
-        "8": {
-          "value": "#f2f2f2",
-          "type": "color"
-        },
-        "9": {
-          "value": "#FAFAFA",
-          "type": "color"
-        }
-      },
       "accent": {
         "1": {
           "value": "#da2128",
@@ -2607,23 +2565,51 @@
               "type": "color"
             }
           }
+        },
+        "toggle": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.2}",
+              "type": "color"
+            }
+          }
         }
       },
       "tab-item": {
-        "default": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "dark": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "light": {
+          "default": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
           },
-          "border": {
-            "type": "color",
-            "value": "{palette.core.1}"
+          "hover": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.accent.6}",
+              "type": "color"
+            }
           }
         }
       },
@@ -2771,6 +2757,32 @@
             "value": "{palette.core.2}60",
             "type": "color"
           }
+        }
+      },
+      "decoration": {
+        "default": {
+          "fill": {
+            "value": "{palette.accent.4}",
+            "type": "color",
+            "description": "Lines and steps icons, tick icons on LP landing"
+          }
+        },
+        "progress-bar": {
+          "fill": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        }
+      },
+      "solid-color-banner": {
+        "fill": {
+          "value": "{palette.neutral.3}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
