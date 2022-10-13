@@ -1065,7 +1065,7 @@
             "type": "color"
           }
         },
-        "progressBar": {
+        "progress-bar": {
           "fill": {
             "value": "{palette.core.3}",
             "type": "color"
@@ -1079,7 +1079,8 @@
         },
         "text": {
           "value": "{palette.neutral.0}",
-          "type": "color"
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
@@ -6313,7 +6314,7 @@
             "type": "color"
           }
         },
-        "progressBar": {
+        "progress-bar": {
           "fill": {
             "value": "{palette.core.1}",
             "type": "color"
@@ -6327,7 +6328,8 @@
         },
         "text": {
           "value": "{palette.neutral.0}",
-          "type": "color"
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
