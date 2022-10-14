@@ -1241,23 +1241,51 @@
               "type": "color"
             }
           }
+        },
+        "toggle": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.3}",
+              "type": "color"
+            }
+          }
         }
       },
       "tab-item": {
-        "default": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "dark": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "type": "color",
-            "value": "{palette.core.1}"
+        "light": {
+          "default": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
           },
-          "border": {
-            "type": "color",
-            "value": "{palette.core.1}"
+          "hover": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            }
           }
         }
       },
@@ -1366,21 +1394,21 @@
       "textlink": {
         "default": {
           "text": {
-            "value": "#007176",
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "icon": {
-            "value": "#007176",
+            "value": "{palette.core.2}",
             "type": "color"
           }
         },
         "hover": {
           "text": {
-            "value": "#007176",
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "icon": {
-            "value": "#007176",
+            "value": "{palette.core.2}",
             "type": "color"
           }
         }
@@ -1388,23 +1416,63 @@
       "carousel-pagination": {
         "default": {
           "active": {
-            "value": "#007176",
+            "value": "{palette.core.1}",
             "type": "color"
           },
           "inactive": {
-            "value": "#00717630",
+            "value": "{palette.core.1}30",
             "type": "color"
           }
         },
         "hover": {
           "active": {
-            "value": "#007176",
+            "value": "{palette.core.1}",
             "type": "color"
           },
           "inactive": {
-            "value": "#00717661",
+            "value": "{palette.core.1}60",
             "type": "color"
           }
+        }
+      },
+      "sidebar": {
+        "fill": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
+        }
+      },
+      "decoration": {
+        "default": {
+          "fill": {
+            "value": "{palette.core.2}",
+            "type": "color",
+            "description": "Lines and steps icons, tick icons on LP landing"
+          }
+        },
+        "progress-bar": {
+          "fill": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        }
+      },
+      "solid-color-banner": {
+        "fill": {
+          "value": "{palette.neutral.3}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
