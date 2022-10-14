@@ -1105,40 +1105,6 @@
           "type": "color"
         }
       },
-      "neutral": {
-        "0": {
-          "value": "#fff",
-          "type": "color"
-        },
-        "1": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "2": {
-          "value": "#1F1F1F",
-          "type": "color"
-        },
-        "3": {
-          "value": "#4d4d4d",
-          "type": "color"
-        },
-        "4": {
-          "value": "#808080",
-          "type": "color"
-        },
-        "5": {
-          "value": "#A6A6A6",
-          "type": "color"
-        },
-        "6": {
-          "value": "#cccccc",
-          "type": "color"
-        },
-        "7": {
-          "value": "#EBEBEB",
-          "type": "color"
-        }
-      },
       "accent": {
         "1": {
           "value": "#FF6727",
@@ -1463,40 +1429,6 @@
           "type": "color"
         }
       },
-      "neutral": {
-        "0": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "1": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "2": {
-          "value": "#1F1F1F",
-          "type": "color"
-        },
-        "3": {
-          "value": "#4d4d4d",
-          "type": "color"
-        },
-        "4": {
-          "value": "#808080",
-          "type": "color"
-        },
-        "5": {
-          "value": "#A6A6A6",
-          "type": "color"
-        },
-        "6": {
-          "value": "#cccccc",
-          "type": "color"
-        },
-        "7": {
-          "value": "#EBEBEB",
-          "type": "color"
-        }
-      },
       "accent": {
         "1": {
           "value": "#FF6727",
@@ -1633,23 +1565,51 @@
               "type": "color"
             }
           }
+        },
+        "toggle": {
+          "default": {
+            "fill": {
+              "value": "{palette.accent.5}",
+              "type": "color"
+            }
+          }
         }
       },
       "tab-item": {
-        "default": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.0}"
+        "dark": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.0}"
+        "light": {
+          "default": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
           },
-          "border": {
-            "type": "color",
-            "value": "{palette.neutral.0}"
+          "hover": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            }
           }
         }
       },
@@ -1689,69 +1649,87 @@
               "value": "{palette.neutral.1}10"
             }
           }
+        },
+        "neutral": {
+          "default": {
+            "icon": {
+              "value": "{palette.neutral.4}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "icon": {
+              "value": "{palette.neutral.3}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{palette.neutral.3}10",
+              "type": "color"
+            }
+          }
         }
       },
       "profile-navigation": {
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.neutral.1}"
           },
           "icon": {
-            "value": "{palette.neutral.0}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         },
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.1}"
           },
           "text": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.neutral.1}"
           },
           "border": {
             "type": "color",
-            "value": "{palette.neutral.0}"
+            "value": "{palette.core.2}"
           },
           "icon": {
-            "value": "{palette.neutral.0}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         }
       },
       "card-label": {
         "certificate": {
-          "value": "{palette.accent.4}",
-          "type": "color"
-        },
-        "course": {
-          "value": "{palette.accent.3}",
-          "type": "color"
-        },
-        "bootcamp": {
-          "value": "{palette.accent.2}",
-          "type": "color"
-        },
-        "associate": {
           "value": "{palette.accent.1}",
           "type": "color"
         },
-        "bachelor": {
-          "value": "{palette.core.1}",
+        "course": {
+          "value": "{palette.accent.2}",
           "type": "color"
         },
-        "master": {
+        "bootcamp": {
+          "value": "{palette.accent.3}",
+          "type": "color"
+        },
+        "associate": {
+          "value": "{palette.accent.4}",
+          "type": "color"
+        },
+        "bachelor": {
           "value": "{palette.accent.5}",
           "type": "color"
         },
+        "master": {
+          "value": "{palette.accent.6}",
+          "type": "color"
+        },
         "doctorate": {
-          "value": "{palette.neutral.5}",
+          "value": "{palette.accent.7}",
           "type": "color"
         }
       },
@@ -1775,6 +1753,68 @@
             "value": "{palette.core.2}",
             "type": "color"
           }
+        }
+      },
+      "carousel-pagination": {
+        "default": {
+          "active": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.1}30",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "active": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.1}60",
+            "type": "color"
+          }
+        }
+      },
+      "sidebar": {
+        "fill": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
+        }
+      },
+      "decoration": {
+        "default": {
+          "fill": {
+            "value": "{palette.core.2}",
+            "type": "color",
+            "description": "Lines and steps icons, tick icons on LP landing"
+          }
+        },
+        "progress-bar": {
+          "fill": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        }
+      },
+      "solid-color-banner": {
+        "fill": {
+          "value": "{palette.neutral.3}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
@@ -2164,7 +2204,8 @@
         },
         "text": {
           "value": "{palette.neutral.0}",
-          "type": "color"
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
@@ -2532,7 +2573,8 @@
         },
         "text": {
           "value": "{palette.neutral.0}",
-          "type": "color"
+          "type": "color",
+          "description": "AEM handling (the text can be black, grey, white)"
         }
       }
     }
