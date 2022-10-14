@@ -1799,40 +1799,6 @@
           "type": "color"
         }
       },
-      "neutral": {
-        "0": {
-          "value": "#fff",
-          "type": "color"
-        },
-        "1": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "2": {
-          "value": "#1F1F1F",
-          "type": "color"
-        },
-        "3": {
-          "value": "#4d4d4d",
-          "type": "color"
-        },
-        "4": {
-          "value": "#808080",
-          "type": "color"
-        },
-        "5": {
-          "value": "#A6A6A6",
-          "type": "color"
-        },
-        "6": {
-          "value": "#cccccc",
-          "type": "color"
-        },
-        "7": {
-          "value": "#EBEBEB",
-          "type": "color"
-        }
-      },
       "accent": {
         "1": {
           "value": "#642b81",
@@ -1969,23 +1935,51 @@
               "type": "color"
             }
           }
+        },
+        "toggle": {
+          "default": {
+            "fill": {
+              "value": "{palette.core.3}",
+              "type": "color"
+            }
+          }
         }
       },
       "tab-item": {
-        "default": {
-          "text": {
-            "type": "color",
-            "value": "{palette.neutral.1}"
+        "dark": {
+          "default": {
+            "text": {
+              "type": "color",
+              "value": "{palette.neutral.1}"
+            }
+          },
+          "hover": {
+            "text": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            },
+            "border": {
+              "type": "color",
+              "value": "{palette.core.1}"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "type": "color",
-            "value": "{palette.core.1}"
+        "light": {
+          "default": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            }
           },
-          "border": {
-            "type": "color",
-            "value": "{palette.core.1}"
+          "hover": {
+            "text": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            }
           }
         }
       },
@@ -2088,6 +2082,88 @@
         },
         "doctorate": {
           "value": "#a6a6a6",
+          "type": "color"
+        }
+      },
+      "textlink": {
+        "default": {
+          "text": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "text": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          }
+        }
+      },
+      "carousel-pagination": {
+        "default": {
+          "active": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.1}30",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "active": {
+            "value": "{palette.core.1}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{palette.core.1}60",
+            "type": "color"
+          }
+        }
+      },
+      "sidebar": {
+        "fill": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.neutral.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
+          "type": "color"
+        }
+      },
+      "decoration": {
+        "default": {
+          "fill": {
+            "value": "{palette.core.2}",
+            "type": "color"
+          }
+        },
+        "progress-bar": {
+          "fill": {
+            "value": "{palette.core.3}",
+            "type": "color"
+          }
+        }
+      },
+      "solid-color-banner": {
+        "fill": {
+          "value": "{palette.neutral.3}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.neutral.0}",
           "type": "color"
         }
       }
