@@ -8792,7 +8792,7 @@
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.2}"
+            "value": "{palette.core.3}"
           },
           "text": {
             "type": "color",
@@ -8806,7 +8806,7 @@
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.2}"
+            "value": "{palette.core.3}"
           },
           "text": {
             "type": "color",
