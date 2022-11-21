@@ -9251,7 +9251,7 @@
       }
     },
     "primary": {
-      "value": "Open Sans",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "ui": {
