@@ -8949,11 +8949,19 @@
           "type": "color"
         },
         "2": {
-          "value": "#A52238",
+          "value": "#EE3F40",
           "type": "color"
         },
         "3": {
-          "value": "#5C91A4",
+          "value": "#D3EAF7",
+          "type": "color"
+        },
+        "4": {
+          "value": "#242E33",
+          "type": "color"
+        },
+        "5": {
+          "value": "#003865",
           "type": "color"
         },
         "transparent": {
@@ -9275,11 +9283,11 @@
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "#841B2D"
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "#841B2D"
             },
             "text": {
               "type": "color",
@@ -9305,11 +9313,11 @@
           "hover": {
             "fill": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.core.1}"
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.core.1}"
             },
             "text": {
               "type": "color",
@@ -9372,7 +9380,7 @@
         "toggle": {
           "default": {
             "fill": {
-              "value": "{palette.core.3}",
+              "value": "{palette.core.5}",
               "type": "color"
             }
           }
@@ -9393,7 +9401,7 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.core.2}"
             }
           }
         },
@@ -9410,7 +9418,7 @@
               "type": "color"
             },
             "border": {
-              "value": "{palette.core.1}",
+              "value": "{palette.core.2}",
               "type": "color"
             }
           }
@@ -9498,7 +9506,7 @@
           },
           "border": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.core.2}"
           },
           "icon": {
             "value": "{palette.neutral.1}",
@@ -9543,21 +9551,21 @@
       "textlink": {
         "default": {
           "text": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           },
           "icon": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           }
         },
         "hover": {
           "text": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.5}",
             "type": "color"
           },
           "icon": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.5}",
             "type": "color"
           }
         }
@@ -9565,21 +9573,21 @@
       "carousel-pagination": {
         "default": {
           "active": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.3}30",
+            "value": "{palette.core.2}30",
             "type": "color"
           }
         },
         "hover": {
           "active": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.3}60",
+            "value": "{palette.core.2}60",
             "type": "color"
           }
         }
@@ -9601,13 +9609,13 @@
       "decoration": {
         "default": {
           "fill": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           }
         },
         "progress-bar": {
           "fill": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           }
         }
