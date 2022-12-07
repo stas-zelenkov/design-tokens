@@ -6189,7 +6189,7 @@
       },
       "solid-color-banner": {
         "fill": {
-          "value": "{palette.neutral.3}",
+          "value": "{palette.neutral.1}",
           "type": "color"
         },
         "text": {
