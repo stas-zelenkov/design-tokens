@@ -11707,6 +11707,12 @@
           "description": "AEM handling (the text can be black, grey, white)"
         }
       }
+    },
+    "border": {
+      "buttons": {
+        "value": "30",
+        "type": "borderRadius"
+      }
     }
   },
   "$themes": [],
