@@ -11704,7 +11704,7 @@
       },
       "solid-color-banner": {
         "fill": {
-          "value": "{palette.core.1}",
+          "value": "{palette.neutral.1}",
           "type": "color"
         },
         "text": {
