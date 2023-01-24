@@ -11411,7 +11411,7 @@
           "default": {
             "text": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.neutral.1}"
             },
             "icon": {
               "type": "color",
@@ -11421,7 +11421,7 @@
           "hover": {
             "text": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.neutral.1}"
             },
             "icon": {
               "type": "color",
