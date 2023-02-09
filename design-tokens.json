@@ -1082,6 +1082,18 @@
           "type": "color",
           "description": "AEM handling (the text can be black, grey, white)"
         }
+      },
+      "alumni": {
+        "banner": {
+          "background": {
+            "value": "{palette.core.3}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{palette.neutral.0}",
+            "type": "color"
+          }
+        }
       }
     },
     "border": {
