@@ -1657,7 +1657,7 @@
             "value": "{palette.neutral.0}"
           },
           "icon": {
-            "value": "{palette.core.1}",
+            "value": "{palette.core.3}",
             "type": "color"
           }
         },
