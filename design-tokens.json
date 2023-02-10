@@ -1425,7 +1425,7 @@
       }
     },
     "primary": {
-      "value": "Avenir",
+      "value": "Open Sans",
       "type": "fontFamilies"
     },
     "ui": {
