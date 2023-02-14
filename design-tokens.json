@@ -1086,7 +1086,7 @@
       "alumni": {
         "banner": {
           "background": {
-            "value": "{palette.core.3}",
+            "value": "{palette.neutral.3}",
             "type": "color"
           },
           "text": {
