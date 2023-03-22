@@ -7758,7 +7758,7 @@
       "large": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Bold",
+          "fontWeight": "SemiBold",
           "lineHeight": "20",
           "fontSize": "14",
           "letterSpacing": "15%",
@@ -7770,7 +7770,7 @@
       "large-underline": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "20",
           "fontSize": "14",
           "letterSpacing": "15%",
@@ -7782,7 +7782,7 @@
       "medium": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "16",
           "fontSize": "12",
           "letterSpacing": "15%",
@@ -7794,7 +7794,7 @@
       "medium-underline": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "16",
           "fontSize": "12",
           "letterSpacing": "15%",
@@ -7806,7 +7806,7 @@
       "small": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "16",
           "fontSize": "10",
           "letterSpacing": "15%",
@@ -7818,7 +7818,7 @@
       "small-underline": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "16",
           "fontSize": "10",
           "letterSpacing": "15%",
