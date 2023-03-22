@@ -7658,7 +7658,7 @@
       "large": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Roman",
+          "fontWeight": "Regular",
           "lineHeight": "24",
           "textCase": "",
           "fontSize": "16"
@@ -7668,7 +7668,7 @@
       "large-semibold": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "24",
           "fontSize": "16"
         },
@@ -7678,7 +7678,7 @@
         "value": {
           "fontFamily": "{primary}",
           "textDecoration": "Underline",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "fontSize": "16",
           "lineHeight": "24"
         },
@@ -7687,7 +7687,7 @@
       "large-bold": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Black",
+          "fontWeight": "Bold",
           "lineHeight": "24",
           "fontSize": "16"
         },
@@ -7696,7 +7696,7 @@
       "medium": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Roman",
+          "fontWeight": "Regular",
           "lineHeight": "20",
           "textCase": "",
           "fontSize": "14"
@@ -7706,7 +7706,7 @@
       "medium-semibold": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "20",
           "textCase": "",
           "fontSize": "14"
@@ -7716,7 +7716,7 @@
       "medium-bold": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Black",
+          "fontWeight": "Bold",
           "lineHeight": "20",
           "textCase": "",
           "fontSize": "14"
@@ -7726,7 +7726,7 @@
       "small": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Roman",
+          "fontWeight": "Regular",
           "lineHeight": "16",
           "textCase": "",
           "fontSize": "12"
@@ -7736,7 +7736,7 @@
       "small-semibold": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "SemiBold",
           "lineHeight": "16",
           "textCase": "",
           "fontSize": "12"
@@ -7746,7 +7746,7 @@
       "small-bold": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Black",
+          "fontWeight": "Bold",
           "lineHeight": "16",
           "textCase": "",
           "fontSize": "12"
@@ -7758,7 +7758,7 @@
       "large": {
         "value": {
           "fontFamily": "{primary}",
-          "fontWeight": "Heavy",
+          "fontWeight": "Bold",
           "lineHeight": "20",
           "fontSize": "14",
           "letterSpacing": "15%",
