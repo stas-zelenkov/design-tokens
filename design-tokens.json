@@ -7842,7 +7842,7 @@
         "2": {
           "value": {
             "fontFamily": "{primary}",
-            "fontWeight": "Roman",
+            "fontWeight": "Regular",
             "lineHeight": "48",
             "fontSize": "40"
           },
@@ -7851,7 +7851,7 @@
         "3": {
           "value": {
             "fontFamily": "{primary}",
-            "fontWeight": "Roman",
+            "fontWeight": "Regular",
             "lineHeight": "40",
             "fontSize": "30"
           },
@@ -7860,7 +7860,7 @@
         "4": {
           "value": {
             "fontFamily": "{primary}",
-            "fontWeight": "Roman",
+            "fontWeight": "Regular",
             "lineHeight": "32",
             "fontSize": "24"
           },
@@ -7869,7 +7869,7 @@
         "5": {
           "value": {
             "fontFamily": "{primary}",
-            "fontWeight": "Roman",
+            "fontWeight": "Regular",
             "lineHeight": "28",
             "fontSize": "21"
           },
@@ -7878,7 +7878,7 @@
         "6": {
           "value": {
             "fontFamily": "{primary}",
-            "fontWeight": "Heavy",
+            "fontWeight": "Bold",
             "lineHeight": "28",
             "fontSize": "18"
           },
@@ -7934,7 +7934,7 @@
         "6": {
           "value": {
             "fontFamily": "{primary}",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Bold",
             "lineHeight": "28",
             "fontSize": "18"
           },
@@ -7943,7 +7943,7 @@
       }
     },
     "primary": {
-      "value": "Avenir",
+      "value": "Lato",
       "type": "fontFamilies"
     },
     "ui": {
