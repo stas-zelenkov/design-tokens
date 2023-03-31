@@ -4028,8 +4028,28 @@
         }
       },
       "card-label": {
+        "doctorate": {
+          "value": "#106790",
+          "type": "color"
+        },
+        "master": {
+          "value": "#007fa3",
+          "type": "color"
+        },
+        "bachelor": {
+          "value": "#35a9ca",
+          "type": "color"
+        },
+        "associate": {
+          "value": "#76d5d4",
+          "type": "color"
+        },
         "certificate": {
-          "value": "{palette.accent.1}",
+          "value": "#72cd47",
+          "type": "color"
+        },
+        "microcertificate": {
+          "value": "#ffb81c",
           "type": "color"
         },
         "course": {
@@ -4038,22 +4058,6 @@
         },
         "bootcamp": {
           "value": "{palette.accent.3}",
-          "type": "color"
-        },
-        "associate": {
-          "value": "{palette.accent.4}",
-          "type": "color"
-        },
-        "bachelor": {
-          "value": "{palette.accent.5}",
-          "type": "color"
-        },
-        "master": {
-          "value": "{palette.accent.6}",
-          "type": "color"
-        },
-        "doctorate": {
-          "value": "{palette.accent.7}",
           "type": "color"
         }
       },
