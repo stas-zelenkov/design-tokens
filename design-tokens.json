@@ -85,6 +85,17 @@
         },
         "type": "typography"
       },
+      "medium-semibold-underline": {
+        "value": {
+          "fontFamily": "{primary}",
+          "fontWeight": "semibold",
+          "fontSize": "14",
+          "letterSpacing": "",
+          "textDecoration": "underline",
+          "lineHeight": "20"
+        },
+        "type": "typography"
+      },
       "medium-bold": {
         "value": {
           "fontFamily": "{primary}",
@@ -478,6 +489,16 @@
           "lineHeight": "20",
           "textCase": "",
           "fontSize": "14"
+        },
+        "type": "typography"
+      },
+      "medium-semibold-underline": {
+        "value": {
+          "fontFamily": "{primary}",
+          "fontWeight": "SemiBold",
+          "lineHeight": "20",
+          "fontSize": "14",
+          "textDecoration": "Underline"
         },
         "type": "typography"
       },
