@@ -736,11 +736,11 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.neutral.1}"
             },
             "text": {
               "type": "color",
-              "value": "{palette.core.2}"
+              "value": "{palette.neutral.1}"
             }
           },
           "hover": {
@@ -762,7 +762,7 @@
           "default": {
             "text": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.neutral.1}"
             },
             "icon": {
               "type": "color",
@@ -772,7 +772,7 @@
           "hover": {
             "text": {
               "type": "color",
-              "value": "{palette.core.1}"
+              "value": "{palette.neutral.1}"
             },
             "icon": {
               "type": "color",
@@ -805,7 +805,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{palette.core.1}",
+              "value": "{palette.neutral.1}",
               "type": "color"
             }
           }
@@ -813,7 +813,7 @@
         "toggle": {
           "default": {
             "fill": {
-              "value": "{palette.core.2}",
+              "value": "{palette.core.3}",
               "type": "color"
             }
           }
@@ -851,7 +851,7 @@
               "type": "color"
             },
             "border": {
-              "value": "{palette.core.3}",
+              "value": "{palette.core.1}",
               "type": "color"
             }
           }
@@ -939,21 +939,21 @@
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.core.2}"
+            "value": "{palette.neutral.2}"
           },
           "text": {
             "type": "color",
             "value": "{palette.neutral.0}"
           },
           "icon": {
-            "value": "{palette.neutral.0}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         },
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.core.2}"
+            "value": "{palette.neutral.2}"
           },
           "text": {
             "type": "color",
@@ -961,10 +961,10 @@
           },
           "border": {
             "type": "color",
-            "value": "{palette.core.3}"
+            "value": "{palette.core.1}"
           },
           "icon": {
-            "value": "{palette.neutral.0}",
+            "value": "{palette.neutral.1}",
             "type": "color"
           }
         }
@@ -1028,21 +1028,21 @@
       "carousel-pagination": {
         "default": {
           "active": {
-            "value": "{palette.core.1}",
+            "value": "{palette.core.3}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.1}30",
+            "value": "{palette.core.3}30",
             "type": "color"
           }
         },
         "hover": {
           "active": {
-            "value": "{palette.core.2}",
+            "value": "{palette.core.3}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.2}60",
+            "value": "{palette.core.3}60",
             "type": "color"
           }
         }
@@ -1064,20 +1064,20 @@
       "decoration": {
         "default": {
           "fill": {
-            "value": "{palette.core.1}",
+            "value": "{palette.core.3}",
             "type": "color"
           }
         },
         "progress-bar": {
           "fill": {
-            "value": "{palette.core.1}",
+            "value": "{palette.core.3}",
             "type": "color"
           }
         }
       },
       "solid-color-banner": {
         "fill": {
-          "value": "{palette.core.2}",
+          "value": "{palette.neutral.2}",
           "type": "color"
         },
         "text": {
@@ -1089,7 +1089,7 @@
       "alumni": {
         "banner": {
           "fill": {
-            "value": "{palette.core.2}",
+            "value": "{palette.core.3}",
             "type": "color"
           },
           "text": {
@@ -1100,21 +1100,21 @@
       },
       "header": {
         "fill": {
-          "value": "{palette.core.1}",
+          "value": "{palette.neutral.0}",
           "type": "color"
         },
         "searchField": {
-          "value": "{palette.core.2}",
+          "value": "{palette.neutral.8}",
           "type": "color"
         },
         "delimiter": {
-          "value": "{palette.neutral.0}70",
+          "value": "{palette.neutral.1}30",
           "type": "color"
         }
       },
       "footer": {
         "fill": {
-          "value": "{palette.core.2}",
+          "value": "#121212",
           "type": "color"
         },
         "title": {
@@ -1136,11 +1136,11 @@
       },
       "cookies-banner": {
         "fill": {
-          "value": "{palette.core.3}",
+          "value": "{palette.neutral.2}",
           "type": "color"
         },
         "text": {
-          "value": "{palette.core.2}",
+          "value": "{palette.neutral.0}",
           "type": "color"
         }
       }
