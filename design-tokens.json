@@ -426,10 +426,6 @@
         "3": {
           "value": "#376996",
           "type": "color"
-        },
-        "transparent": {
-          "value": "rgba(255,255,255,0)",
-          "type": "color"
         }
       }
     },
@@ -692,42 +688,6 @@
             "fontSize": "34"
           },
           "type": "typography"
-        },
-        "3": {
-          "value": {
-            "fontFamily": "{primary}",
-            "fontWeight": "Regular",
-            "lineHeight": "40",
-            "fontSize": "30"
-          },
-          "type": "typography"
-        },
-        "4": {
-          "value": {
-            "fontFamily": "{primary}",
-            "fontWeight": "Regular",
-            "lineHeight": "32",
-            "fontSize": "24"
-          },
-          "type": "typography"
-        },
-        "5": {
-          "value": {
-            "fontFamily": "{primary}",
-            "fontWeight": "Regular",
-            "lineHeight": "28",
-            "fontSize": "21"
-          },
-          "type": "typography"
-        },
-        "6": {
-          "value": {
-            "fontFamily": "{primary}",
-            "fontWeight": "SemiBold",
-            "lineHeight": "28",
-            "fontSize": "18"
-          },
-          "type": "typography"
         }
       }
     },
@@ -776,11 +736,11 @@
             },
             "border": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.core.2}"
             },
             "text": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.core.2}"
             }
           },
           "hover": {
@@ -802,7 +762,7 @@
           "default": {
             "text": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.core.1}"
             },
             "icon": {
               "type": "color",
@@ -812,7 +772,7 @@
           "hover": {
             "text": {
               "type": "color",
-              "value": "{palette.neutral.1}"
+              "value": "{palette.core.1}"
             },
             "icon": {
               "type": "color",
@@ -823,7 +783,7 @@
         "secondary-light": {
           "default": {
             "fill": {
-              "value": "{palette.core.transparent}",
+              "value": "#ffffff00",
               "type": "color"
             },
             "border": {
@@ -845,7 +805,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{palette.neutral.1}",
+              "value": "{palette.core.1}",
               "type": "color"
             }
           }
@@ -853,7 +813,7 @@
         "toggle": {
           "default": {
             "fill": {
-              "value": "{palette.core.3}",
+              "value": "{palette.core.2}",
               "type": "color"
             }
           }
@@ -891,7 +851,7 @@
               "type": "color"
             },
             "border": {
-              "value": "{palette.core.1}",
+              "value": "{palette.core.3}",
               "type": "color"
             }
           }
@@ -951,27 +911,49 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "default": {
+            "icon": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{palette.core.1}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "icon": {
+              "value": "{palette.neutral.0}",
+              "type": "color"
+            },
+            "fill": {
+              "value": "{palette.core.2}",
+              "type": "color"
+            }
+          }
         }
       },
       "profile-navigation": {
         "default": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.2}"
+            "value": "{palette.core.2}"
           },
           "text": {
             "type": "color",
             "value": "{palette.neutral.0}"
           },
           "icon": {
-            "value": "{palette.neutral.1}",
+            "value": "{palette.neutral.0}",
             "type": "color"
           }
         },
         "hover": {
           "fill": {
             "type": "color",
-            "value": "{palette.neutral.2}"
+            "value": "{palette.core.2}"
           },
           "text": {
             "type": "color",
@@ -979,10 +961,10 @@
           },
           "border": {
             "type": "color",
-            "value": "{palette.core.1}"
+            "value": "{palette.core.3}"
           },
           "icon": {
-            "value": "{palette.neutral.1}",
+            "value": "{palette.neutral.0}",
             "type": "color"
           }
         }
@@ -1024,21 +1006,21 @@
       "textlink": {
         "default": {
           "text": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           },
           "icon": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           }
         },
         "hover": {
           "text": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           },
           "icon": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           }
         }
@@ -1046,21 +1028,21 @@
       "carousel-pagination": {
         "default": {
           "active": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.3}30",
+            "value": "{palette.core.1}30",
             "type": "color"
           }
         },
         "hover": {
           "active": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "inactive": {
-            "value": "{palette.core.3}60",
+            "value": "{palette.core.2}60",
             "type": "color"
           }
         }
@@ -1082,20 +1064,20 @@
       "decoration": {
         "default": {
           "fill": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           }
         },
         "progress-bar": {
           "fill": {
-            "value": "{palette.core.3}",
+            "value": "{palette.core.1}",
             "type": "color"
           }
         }
       },
       "solid-color-banner": {
         "fill": {
-          "value": "{palette.neutral.2}",
+          "value": "{palette.core.2}",
           "type": "color"
         },
         "text": {
@@ -1106,14 +1088,60 @@
       },
       "alumni": {
         "banner": {
-          "background": {
-            "value": "{palette.neutral.3}",
+          "fill": {
+            "value": "{palette.core.2}",
             "type": "color"
           },
           "text": {
             "value": "{palette.neutral.0}",
             "type": "color"
           }
+        }
+      },
+      "header": {
+        "fill": {
+          "value": "{palette.core.1}",
+          "type": "color"
+        },
+        "searchField": {
+          "value": "{palette.core.2}",
+          "type": "color"
+        },
+        "delimiter": {
+          "value": "{palette.neutral.0}70",
+          "type": "color"
+        }
+      },
+      "footer": {
+        "fill": {
+          "value": "{palette.core.2}",
+          "type": "color"
+        },
+        "title": {
+          "value": "{palette.neutral.0}80",
+          "type": "color"
+        },
+        "contactText": {
+          "value": "{palette.neutral.0}90",
+          "type": "color"
+        },
+        "copyrightText": {
+          "value": "{palette.neutral.0}80",
+          "type": "color"
+        },
+        "delimiter": {
+          "value": "{palette.neutral.0}60",
+          "type": "color"
+        }
+      },
+      "cookies-banner": {
+        "fill": {
+          "value": "{palette.core.3}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{palette.core.2}",
+          "type": "color"
         }
       }
     },
