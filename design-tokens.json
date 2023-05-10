@@ -1108,7 +1108,7 @@
           "type": "color"
         },
         "delimiter": {
-          "value": "{palette.neutral.1}30",
+          "value": "{palette.neutral.1}20",
           "type": "color"
         }
       },
