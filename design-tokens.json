@@ -1089,7 +1089,7 @@
       "alumni": {
         "banner": {
           "fill": {
-            "value": "{palette.core.3}",
+            "value": "{palette.neutral.3}",
             "type": "color"
           },
           "text": {
@@ -7678,6 +7678,18 @@
           "value": "{palette.neutral.0}",
           "type": "color",
           "description": "AEM handling (the text can be black, grey, white)"
+        }
+      },
+      "alumni": {
+        "banner": {
+          "fill": {
+            "value": "{palette.core.3}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{palette.neutral.0}",
+            "type": "color"
+          }
         }
       }
     }
